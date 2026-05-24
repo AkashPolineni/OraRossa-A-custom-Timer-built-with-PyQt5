@@ -7,11 +7,14 @@ OraRossa is a desktop productivity app for macOS built with Python and PyQt5. It
 ---
 
 ## 📸 Preview
-1. App Interface.
+1. App Interface
 <img width="800" height="505" alt="Screenshot1-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/521a67fe-5012-458b-a6d5-0f776ea1be41" />
-2. Running the Timer:
-<img width="800" height="514" alt="Screenshot2-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/bcb9e0e7-5427-4d61-8dca-23cf050ebd91" />
-3. Timer Complete:
+
+
+2. Running the Timer
+<img width="800" height="514" alt="Screenshot2-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/3dddd244-06a6-41e0-b1ad-7c8d3624b655" />
+
+3. Timer Complete
 <img width="800" height="514" alt="ScreenRecording2026-05-24at11 13 32pm-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/b2a2e193-9218-4176-be37-456ac973aa38" />
 
 
