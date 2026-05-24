@@ -7,10 +7,7 @@ OraRossa is a desktop productivity app for macOS built with Python and PyQt5. It
 ---
 
 ## 📸 Preview
-
-> _Add a screenshot here — drag `assets/preview.png` into this spot on GitHub_
-
----
+<img width="800" height="505" alt="Screenshot1-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/521a67fe-5012-458b-a6d5-0f776ea1be41" />
 
 ## ✨ Features
 
